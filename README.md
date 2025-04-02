@@ -1,3 +1,7 @@
+# Referencies
+Documents de l'assignatura (videos proporcionats pel grup del seminari)
+ChatGPT per fer els arxius .html i .css
+
 # AngularSeminari6
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
